@@ -3,6 +3,7 @@ Final project of Formal languages ​​and compilers
 Names: Nicolas Ruiz Urrea, Maria Mercedes Olaya Lopez
 
 Operating system: Windows 11
+
 Programming language: Python version 3.11.9
 
 Instructions to run:
